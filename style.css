@@ -90,6 +90,7 @@ figure img{
 .lower_div div{
     padding: 10px 0;
     color: white;
+    /* all box size same kri dese */
     flex-grow: 1;
     border-right: 1px solid #fff;
 }
